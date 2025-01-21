@@ -69,13 +69,7 @@ In Terminal:
 streamlit run src\webgpt_app.py
 ```
 
-**YouTube video:** [Link](https://www.youtube.com/watch?v=55bztmEzAYU&t=295s)
-
-**Slides:** [Link](https://github.com/Farzad-R/LLM-Zero-to-Hundred/blob/master/presentation/presentation.pdf)
-
 Extra read:
 - [GPT model](https://platform.openai.com/docs/models/overview) 
 - [duckduckgo-search](https://pypi.org/project/duckduckgo-search/)
 - [streamlit](https://docs.streamlit.io/)
-
-
